@@ -1,5 +1,5 @@
-# sakwnet
-This is the official implementation code for SAKWNet.
+# BDRNet
+This is the official implementation code for BDRNet.
 
 The whole code will be public when this paper is accepted.
 
