@@ -7,7 +7,7 @@ cfg_data = __C_PUCPR
 
 __C_PUCPR.STD_SIZE = (1280,720)
 __C_PUCPR.TRAIN_SIZE = (720, 720) # 2D tuple or 1D scalar
-__C_PUCPR.DATA_PATH = '/data2/haojie/DATASETS/CA_PU/PUCPR/data'
+__C_PUCPR.DATA_PATH = '/Your/Dataset/Path'
 
 __C_PUCPR.MEAN_STD = ([0.3908707, 0.3613535, 0.36716083], [0.22240958, 0.21731742, 0.21530356])
 
@@ -25,4 +25,4 @@ __C_PUCPR.TRAIN_BATCH_SIZE = 16 #imgs
 
 __C_PUCPR.VAL_BATCH_SIZE = 14 # must be 1
 
-__C_PUCPR.LOG_DIR = '/data2/haojie/CODE/RemoteCC/log/'
+__C_PUCPR.LOG_DIR = '/Your/Code/Path/log/'
