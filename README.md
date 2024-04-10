@@ -6,6 +6,8 @@
 ☑️python 3.8.10  
 ### Requirements
 run ```pip install -r requirements.txt```
+### DataSet Example
+Click [here](https://lafi.github.io/LPN/) to download the PUCPR dataset.
 ## Overall Results:
 ### Figure
 ![overall results](results1.jpg)
