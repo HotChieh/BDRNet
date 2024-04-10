@@ -22,7 +22,7 @@ __C.PRETRAINED =False
 # contine training
 __C.VISUALIZATION = False
 __C.RESUME =False
-__C.RESUME_PATH = '/data2/haojie/CODE/BDRNet/exp/04-08_20-24_PUCPR_BDRNet_0.0001/latest_state.pth' # 
+__C.RESUME_PATH = '/XXX/your_latest_state.pth' # 
 __C.RESUME_BEST =False
 __C.RESUME_BEST_PATH = './XXX/your_best.pth'
 
