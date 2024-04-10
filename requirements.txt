@@ -1,0 +1,6 @@
+easydict
+scikit-image
+opencv-python
+tqdm
+visdom
+tensorboardX
