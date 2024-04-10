@@ -9,6 +9,8 @@ run ```pip install -r requirements.txt```
 ### DataSet Example
 Click [here](https://lafi.github.io/LPN/) to download the PUCPR dataset.  
 Then, modify the default path of the dataset in [setting.py](datasets/PUCPR/setting.py).
+### Available GPU IDs
+Modify the available GPU devices in [config.py](config.py)
 ## Overall Results:
 ### Figure
 ![overall results](results1.jpg)
