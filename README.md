@@ -3,6 +3,6 @@
 ### Figure
 ![overall results](results1.jpg)
 ### Table
-|Center-Dataset|Center-MAE|Center-MSE|
-| :---         |     :---:      |          ---: |
-|Center-PUCPR|Center-1.55|Center-1.93|
+|Dataset|MAE|MSE|
+| :---:         |     :---:      |          :---: |
+|PUCPR|1.55|1.93|
