@@ -2,7 +2,7 @@
 ## ● Training Preparation
 ### Environment
 ☑️pytorch 1.8.1  
-☑️CUDA 11.2  
+☑️CUDA 11.4  
 ☑️python 3.8.10  
 ### Requirements
 Run ```pip install -r requirements.txt```
