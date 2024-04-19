@@ -1,4 +1,4 @@
-# This is the official implementation of BDRNet
+# Balanced Density Regression Network for Remote Sensing Object Counting
 ## ● Training Preparation
 ### Environment
 ☑️pytorch 1.8.1  
