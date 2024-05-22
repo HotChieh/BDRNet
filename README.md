@@ -30,7 +30,7 @@ The training log of above result in PUCPR can be found in this [file](https://do
 If this work is helpful for your research, please consider citing:
 
 ```
-@ARTICLE{10535416,
+@ARTICLE{BDRNet,
 
   author={Guo, Haojie and Gao, Junyu and Yuan, Yuan},
 
