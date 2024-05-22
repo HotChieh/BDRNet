@@ -26,3 +26,27 @@ For example, line 20, 22-25 and 163-165 in [trainer.py](trainer.py).
 |PUCPR|1.55|1.93|
 ### Training Log
 The training log of above result in PUCPR can be found in this [file](https://docs.qq.com/doc/DQ21tQ3d0aldhTlBR)
+
+If this work is helpful for your research, please consider citing:
+
+@ARTICLE{10535416,
+
+  author={Guo, Haojie and Gao, Junyu and Yuan, Yuan},
+
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+
+  title={Balanced Density Regression Network for Remote Sensing Object Counting}, 
+
+  year={2024},
+
+  volume={},
+
+  number={},
+
+  pages={1-1},
+
+  keywords={Balanced Gaussian regression;remote object counting;attention mechanism;pixel-wise estimation},
+
+  doi={10.1109/TGRS.2024.3402271}}
+```
+```
