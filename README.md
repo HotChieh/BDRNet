@@ -29,6 +29,7 @@ The training log of above result in PUCPR can be found in this [file](https://do
 
 If this work is helpful for your research, please consider citing:
 
+```
 @ARTICLE{10535416,
 
   author={Guo, Haojie and Gao, Junyu and Yuan, Yuan},
@@ -48,5 +49,4 @@ If this work is helpful for your research, please consider citing:
   keywords={Balanced Gaussian regression;remote object counting;attention mechanism;pixel-wise estimation},
 
   doi={10.1109/TGRS.2024.3402271}}
-```
 ```
