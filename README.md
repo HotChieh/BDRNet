@@ -40,11 +40,11 @@ If this work is helpful for your research, please consider citing:
 
   year={2024},
 
-  volume={},
+  volume={62},
 
   number={},
 
-  pages={1-1},
+  pages={1-13},
 
   keywords={Balanced Gaussian regression;remote object counting;attention mechanism;pixel-wise estimation},
 
