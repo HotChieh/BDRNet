@@ -16,7 +16,7 @@ Run ```python train.py```
 The training log is saved in ```./exp/Your_EXP_Name/code/log/training.txt```
 ## ● Training Without Visdom
 If you do not want to visualize the training process, you can comment the relevant ```visdom``` code in [trainer.py](trainer.py).
-For example, line 20, 22-25 and 163-165 in [trainer.py](trainer.py).
+For example, line 20, 22-25 and 160-162 in [trainer.py](trainer.py).
 ## ● Overall Results:
 ### Figure
 ![overall results](results1.jpg)
